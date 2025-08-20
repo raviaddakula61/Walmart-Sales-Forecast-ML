@@ -1,7 +1,11 @@
 # Walmart Sales Forecasting using the Best ML algorithms
-applink:-https://walmartsalespredictor.streamlit.app/
 
-![alt test](https://github.com/RawatMeghna/Walmart-Sales-Forecasting-using-Best-ML-algorithms/blob/main/Others/Wallmart1.jpg)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4037440c-131c-4f0f-843b-9eeeac75fcb8" />
+
+## 🌐 Live App
+You can access the project here: 👉 [Walmart Sales Predictor](https://walmartsalespredictor.streamlit.app/)
+
+## Objective
 
 The objective of this project is to develop a Walmart sales forecasting model using the best machine learning algorithms. The project involves understanding and cleaning up the dataset, building regression models to predict sales based on single and multiple features, evaluating model performance using metrics like RMSE, and performing data exploration, manipulation, feature selection, and predictive modeling. The project aims to provide insights into the dataset and conclude with reliable sales forecasts for Walmart.
 
