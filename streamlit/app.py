@@ -7,7 +7,7 @@ import requests
 from io import BytesIO
 
 # Load the trained RandomForest model
-with open("Walmart_sales_forecasting.pkl", "rb") as f:
+with open("streamlit/Walmart_sales_forecasting.pkl", "rb") as f:
     model = pickle.load(f)
 
 st.set_page_config(page_title="Walmart Sales Forecasting", layout="wide")
